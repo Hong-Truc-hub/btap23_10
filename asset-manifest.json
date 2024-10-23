@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btap23_10/static/css/main.84cfeb82.css",
+    "main.js": "/btap23_10/static/js/main.80d609a9.js",
+    "static/js/453.df75458b.chunk.js": "/btap23_10/static/js/453.df75458b.chunk.js",
+    "index.html": "/btap23_10/index.html",
+    "main.84cfeb82.css.map": "/btap23_10/static/css/main.84cfeb82.css.map",
+    "main.80d609a9.js.map": "/btap23_10/static/js/main.80d609a9.js.map",
+    "453.df75458b.chunk.js.map": "/btap23_10/static/js/453.df75458b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84cfeb82.css",
+    "static/js/main.80d609a9.js"
+  ]
+}
